@@ -1,11 +1,11 @@
-# Pokedex
+# 🚀 Pokedéx
 ## Pokedéx utilizando da API do PokeAPI.
 ## Com essa API, podemos utilizar de dados gerais dos pokemons e de suas imagens e GIFs, como feito no projeto.
 Suporte: Manual do Dev
 
 ### 📋 Pré-requisitos
 
-Apenas clonar o repositório e utilizar!!!
+😀 Apenas clonar o repositório e utilizar!!!
 
 ## 🛠️ Construído com
 
